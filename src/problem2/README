@@ -8,7 +8,7 @@ Then run the simulation program. This will output to stdout by default. For
 the gnuplot script to work you must redirect it to a file called "problem2.out"
 
 $ java SIS_Static [data file] > problem2.out
-which my my case is
+which in my case is
 $ java SIS_Static ../../datasets/static.network > problem2.out
 
 Then you plot the results by calling the gnuplot command
